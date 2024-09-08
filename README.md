@@ -36,6 +36,7 @@
 
 ## Program:
 ```
+# importing libraries
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
 from pgmpy.sampling import GibbsSampling
